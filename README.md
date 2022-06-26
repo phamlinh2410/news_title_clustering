@@ -5,7 +5,7 @@
 git clone https://github.com/phamlinh2410/news_title_clustering
 
 #### Install packages
-pip install -r requirement.txt
+pip install -r requirements.txt
 
 #### Install data 
 https://github.com/binhvq/news-corpus
@@ -50,4 +50,6 @@ https://github.com/binhvq/news-corpus
 1. Tạo embedding cho câu văn, chạy các file trong thư mục /embedding
 2. Kiểm thử độ tương đồng, chạy các file trong thư mục /similarity
 3. Phân cụm: 
+    - Phân cụm bằng phương pháp Kmeans, chạy file ClusteringKmeans.ipynb
+    - Phân cụm bằng phương pháp CURE, chạy file ClusteringCURE.ipynb
 
