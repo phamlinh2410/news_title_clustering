@@ -50,6 +50,7 @@ https://github.com/binhvq/news-corpus
 1. Tạo embedding cho câu văn, chạy các file trong thư mục /embedding
 2. Kiểm thử độ tương đồng, chạy các file trong thư mục /similarity
 3. Phân cụm: 
-    - Phân cụm bằng phương pháp Kmeans, chạy file ClusteringKmeans.ipynb
-    - Phân cụm bằng phương pháp CURE, chạy file ClusteringCURE.ipynb
+    - Phân cụm bằng phương pháp Kmeans, chạy file ClusteringKmeans.ipynb trong thư mục /clustering
+    - Phân cụm bằng phương pháp CURE, chạy file ClusteringCURE.ipynb trong thư mục /clustering
+    - Kết quả từng cụm dữ liệu được lưu vào các file json trong thư mục /clustering
 
