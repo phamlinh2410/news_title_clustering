@@ -1,5 +1,3 @@
-import nltk
-# nltk.download('punkt')
 from nltk.tokenize import word_tokenize
 import numpy as np
 import pandas as pd

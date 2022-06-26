@@ -1,0 +1,12 @@
+numpy
+pandas
+sklearn
+nltk
+underthesea
+gensim
+fasttext
+sentence_transformers
+pyvi
+matplotlib
+mpl_toolkits
+scipy
