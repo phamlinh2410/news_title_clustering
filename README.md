@@ -9,7 +9,8 @@ pip install -r requirement.txt
 
 #### Install data 
 https://github.com/binhvq/news-corpus
-Install pre-train embedding model:
+
+#### Install pre-train embedding model:
 - [Fasttext](https://fasttext.cc/)
 - [Sentence-Bert](https://www.sbert.net/)
 ### Structure
