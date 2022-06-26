@@ -1,14 +1,14 @@
 # news_title_clustering
 
 ### Installation
-Install repo
+#### Install repo
 git clone https://github.com/phamlinh2410/news_title_clustering
 
-Install packages
+#### Install packages
 pip install -r requirement.txt
 
-Install data 
-
+#### Install data 
+https://github.com/binhvq/news-corpus
 Install pre-train embedding model:
 - [Fasttext](https://fasttext.cc/)
 - [Sentence-Bert](https://www.sbert.net/)
